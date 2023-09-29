@@ -38,4 +38,4 @@ tensorflow_intel==2.14.0rc0
 tensorflow_intel==2.11.0
 torch==1.13.1
 torch==2.0.1
-~treamlit==1.22.0
+streamlit==1.22.0
